@@ -121,3 +121,4 @@ Desenvolvido por Heinz Stranner Junior
 
 
  
+<img width="553" height="421" alt="meu-qrcode" src="https://github.com/user-attachments/assets/858d7003-9840-40ff-a40a-272f0337be61" />

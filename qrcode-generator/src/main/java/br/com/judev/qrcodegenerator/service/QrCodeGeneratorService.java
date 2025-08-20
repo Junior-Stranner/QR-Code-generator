@@ -1,8 +1,8 @@
 package br.com.judev.qrcodegenerator.service;
 
+import br.com.judev.qrcodegenerator.domain.ports.StoragePort;
 import br.com.judev.qrcodegenerator.dto.QrCodeGenerateRequest;
 import br.com.judev.qrcodegenerator.dto.QrCodeGenerateResponse;
-import br.com.judev.qrcodegenerator.ports.StoragePort;
 import com.google.zxing.BarcodeFormat;
 import com.google.zxing.WriterException;
 import com.google.zxing.client.j2se.MatrixToImageWriter;
